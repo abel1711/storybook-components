@@ -37,3 +37,5 @@ export const MyButton = ({label, colorFont, backgroundColor, size, border = fals
         </button>
     )
 }
+
+export default MyButton;
