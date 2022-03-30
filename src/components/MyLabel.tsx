@@ -1,5 +1,3 @@
-import { CSSProperties } from 'react';
-import { UrlWithStringQuery } from 'url';
 import './myLabel.css';
 
 interface Props{
